@@ -10,6 +10,10 @@ Sistemas Relacionais em banco de dados
 
 <img width="945" height="545" alt="Image" src="https://github.com/user-attachments/assets/99d01ad7-9433-45b7-b349-edfec22c8e08" />
 
+-> Primeiro Projeto Lógico de Banco de Dados
+
+<img width="1487" height="905" alt="Image" src="https://github.com/user-attachments/assets/07ed0498-a4bf-4b40-af33-8a890ccae893" />
+
 ## Stack utilizada
 
 **Banco de dados:** MySQL Workbench
